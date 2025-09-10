@@ -5,7 +5,7 @@
 # Blue-Green Deployment with Docker
 
 This project demonstrates how to set up a **Blue-Green Deployment strategy** for a simple web application.  
-It builds on top of the [Multi-Service Docker project](https://github.com/Harsha-nani75/Blue-green-deployment) and shows how to deploy applications **with zero downtime and zero data loss**.
+It builds on top of the [Multi-Service Docker project]https://roadmap.sh/projects/blue-green-deployment and shows how to deploy applications **with zero downtime and zero data loss**.
 
 ---
 
